@@ -4,7 +4,7 @@ Projeto prático desenvolvido para o trabalho de **Gerenciamento de Configuraç�
 
 ## Equipe e Papéis
 * **Guilherme** – Gestor de Configuração (Configuration Manager)
-* **Gustavo** – Desenvolvedor Principal
+* **Larissa** – Desenvolvedor Principal
 * **Maria Eduarda** – Desenvolvedora de Funcionalidades (Feature Developer)
 * **Mayara** – Revisor de Código e Analista de Qualidade
 
