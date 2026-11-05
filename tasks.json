@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "descricao": "Configurar o repositorio Git e convidar a equipe",
+        "concluida": true
+    },
+    {
+        "id": 2,
+        "descricao": "Implementar a logica de negocio em tasks.py",
+        "concluida": false
+    }
+]
